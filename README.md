@@ -6,7 +6,6 @@ The goal of this website is to provide a clean and responsive platform where vis
 
 ## 🚀 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js  
 - **Deployment:** Vercel  
 
 ## 📌 Features
